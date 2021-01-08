@@ -1,0 +1,1 @@
+Todos aquellos recursos estaticos como imagenes estan en el directorio drawable
